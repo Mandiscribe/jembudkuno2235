@@ -1,0 +1,17 @@
+#include <string>
+#include "corefunc.h"
+#define byte uin8_t
+#define BYTE uint8_t
+
+
+
+//Account Start From
+int MULAI_DARI = 1;
+//Password Acc
+string Password_acc = "@dandism2";
+//Growid
+string Growid_acc = "dismbots";
+//Gmail Start From
+int START_DARI = 1;
+//Gmail
+string Gmail_acc = "Dandismbots12";
