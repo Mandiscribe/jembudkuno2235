@@ -8,10 +8,10 @@
 //Account Start From
 int MULAI_DARI = 1;
 //Password Acc
-string Password_acc = "@dandism2";
+string Password_acc = "password";
 //Growid
-string Growid_acc = "dismbots";
+string Growid_acc = "growid";
 //Gmail Start From
 int START_DARI = 1;
 //Gmail
-string Gmail_acc = "Dandismbots12";
+string Gmail_acc = "gmail";
